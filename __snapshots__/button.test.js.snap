@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders button with text 1`] = `
+<button
+  className="primary"
+  onClick={[Function]}
+>
+  Hello
+</button>
+`;
+
+exports[`Button renders button with text and icon 1`] = `
+<button
+  className="primary"
+  onClick={[Function]}
+>
+  <img
+    src="icon.jpg"
+  />
+  Hello
+</button>
+`;

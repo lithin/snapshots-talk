@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`reducer returns default state 1`] = `Object {}`;
+
+exports[`reducer returns number one for action ADD 1`] = `
+Object {
+  "number": 1,
+}
+`;

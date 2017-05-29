@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Panel renders number, and three buttons 1`] = `
+<div>
+  <span>
+    0
+  </span>
+  <Button
+    onClick={[Function]}
+    type="primary"
+  >
+    Up
+  </Button>
+  <Button
+    onClick={[Function]}
+    type="primary"
+  >
+    Down
+  </Button>
+  <Button
+    onClick={[Function]}
+    type="primary"
+  >
+    Zero
+  </Button>
+</div>
+`;
